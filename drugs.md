@@ -27,6 +27,10 @@
 - Rough trend: ~10% of users have problematic use → ~90% of consumers help fund services for those who need them.
 
 ## Pros
+- Addresses failures of modern drug policy (prohibition has not removed demand; it has driven an unregulated black market).
+- Captures missed tax / surplus revenue from a market with consistent demand.
+- Safe supply: pharmaceutical-grade substances reduce harm vs. adulterated / unknown-purity street product.
+- Police resources: reallocate funding toward violent crime, petty theft, and property crime; some black-market enforcement still needed (e.g. unlicensed supply, diversion).
 - Can fund mental health services for everyone, not only drug users.
 
 ## Cons
