@@ -21,7 +21,7 @@
 
 ## Funding model
 - Keep prices at or below current black-market levels so users switch to the legal market.
-- Example: ketamine currently ~$200 ± $50 per gram (market price people already pay).
+- Example: ketamine currently ~$200 ± $50 (AU$) per gram (market price people already pay).
 - Conservative estimate: manufacturing + hardened distribution + bureaucracy ≈ 50% of retail price.
 - Remaining ~50% funds harm-reduction and support services.
 - Rough trend: ~10% of users have problematic use → ~90% of consumers help fund services for those who need them.
